@@ -1,7 +1,7 @@
-- Hi, I’m @Embraxium
-- I’m interested in Java reverse enegiering and backend web development
-- 🌱 I’m currently learning Java and web development
-- 📫 How to reach me: Discord Embraxium#7559
+-Java Developer, 
+-Backend Website Developer,
+-He/Him | Taken,
+-Linux Geek.
 
 <!---
 Embraxium/Embraxium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
